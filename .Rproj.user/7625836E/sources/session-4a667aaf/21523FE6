@@ -1,0 +1,27 @@
+{
+    "id": "21523FE6",
+    "path": "~/Baseball/CorrelationMatrix.R",
+    "project_path": "CorrelationMatrix.R",
+    "type": "r_source",
+    "hash": "2621478045",
+    "contents": "",
+    "dirty": false,
+    "created": 1688327187700.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "79,0",
+        "scrollLine": "59"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1688327410,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1688327410681,
+    "read_only": false,
+    "read_only_alternatives": []
+}
